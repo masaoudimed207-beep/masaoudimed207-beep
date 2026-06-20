@@ -48,6 +48,4 @@ Je suis **étudiant en Génie Informatique** à l'École Supérieure de Technolo
 ---
 
 ### 📫 Me contacter
-
-- 💼 **LinkedIn :** [Ton lien LinkedIn](https://linkedin.com)
-- 📧 **Email :** [Ton email professionnel]
+- 📧 **Email :** masaoudimed207@gmail.com
